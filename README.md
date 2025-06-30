@@ -75,7 +75,7 @@ vcpkg install sfml:x64-windows
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/MrChildrenJ/Asteroids.git
 cd Asteroid
 
 # Build the project
