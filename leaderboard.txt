@@ -1,7 +1,9 @@
+ccc 1400
 aaa 1300
 bb 1000
 bb 1000
 jj 900
 jjh 700
+aut 500
 a 200
 bbb 100

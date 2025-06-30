@@ -6,6 +6,10 @@ The project was completed as a final project for CS 6010 at the University of Ut
 
 This is an Asteroids game implemented in C++ using SFML. 
 
+## Demo
+
+![Demo](./assets/asteroids.gif)
+
 ## Game Features
 
 - **HP System**: Ship has 3 hit points, loses 1 HP per asteroid collision
