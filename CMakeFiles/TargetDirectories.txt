@@ -1,0 +1,3 @@
+/Users/jjhuang/Github/Asteroid/CMakeFiles/asteroids.dir
+/Users/jjhuang/Github/Asteroid/CMakeFiles/edit_cache.dir
+/Users/jjhuang/Github/Asteroid/CMakeFiles/rebuild_cache.dir
