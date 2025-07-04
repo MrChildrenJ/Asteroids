@@ -1,0 +1,35 @@
+# CMake 生成的檔案
+build/
+bin/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# 編譯產生的檔案
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# 編譯器和工具生成的檔案
+.vscode/
+.vs/
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# 系統檔案
+.DS_Store
+Thumbs.db

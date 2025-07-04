@@ -1,0 +1,27 @@
+# 排除 Makefile 相關檔案的語言統計
+Makefile linguist-generated=true
+*.mk linguist-generated=true
+*.makefile linguist-generated=true
+CMakeLists.txt linguist-detectable=false
+
+# 排除編譯產生的檔案
+bin/* linguist-generated=true
+build/* linguist-generated=true
+*.o linguist-generated=true
+*.obj linguist-generated=true
+*.exe linguist-generated=true
+*.out linguist-generated=true
+
+# 強制識別你的主要語言
+*.cpp linguist-detectable=true
+*.cc linguist-detectable=true
+*.cxx linguist-detectable=true
+*.c linguist-detectable=true
+*.h linguist-detectable=true
+*.hpp linguist-detectable=true
+
+# 如果有其他語言
+*.py linguist-detectable=true
+*.js linguist-detectable=true
+*.cs linguist-detectable=true
+*.java linguist-detectable=true
