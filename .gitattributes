@@ -3,6 +3,8 @@ Makefile linguist-generated=true
 *.mk linguist-generated=true
 *.makefile linguist-generated=true
 CMakeLists.txt linguist-detectable=false
+build/** linguist-generated=true
+CMakeFiles/** linguist-generated=true
 
 # 排除編譯產生的檔案
 bin/* linguist-generated=true
